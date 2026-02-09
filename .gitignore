@@ -1,0 +1,11 @@
+# Exclude data files
+*.data
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+*.iml
+*.idea/
